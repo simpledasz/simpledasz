@@ -1,9 +1,9 @@
 # 👋 Hi, I'm David!
 
-## 🚀 Aspiring Software Developer | 🎮 Indie Game Enthusiast | 💼 IT Specialist
+## 🚀 Aspiring Software Developer | 💼 IT Specialist
 
-Welcome to my GitHub! I'm currently transitioning from a career in IT sales support to full-time software development, combining my passion for technology, programming, and interactive design. I specialize in Python and C#, and I'm actively building innovative projects that demonstrate strong software engineering principles, clean UI/UX, and AI integration.
-
+Welcome to my GitHub! I'm currently transitioning from a career in Sales to full-time software development, combining my passion for technology, programming, and interactive design. I specialize in Python and C#, and I'm actively building projects that demonstrate strong software engineering principles, clean UI/UX, and AI integration.
+ 
 ---
 
 ### 💡 About Me
@@ -18,12 +18,15 @@ Welcome to my GitHub! I'm currently transitioning from a career in IT sales supp
 ### 🛠️ Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Tools & Frameworks**  
+**Tools & Framewrks**  
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![MAUI](https://img.shields.io/badge/-MAUI-512BD4?style=flat&logo=dotnet)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
@@ -37,20 +40,20 @@ Welcome to my GitHub! I'm currently transitioning from a career in IT sales supp
 |----------|-----------|
 | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | Configuration, troubleshooting, system integration, .NET development |
 | ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white) | Development & testing in cross-platform environments, seamless integration with Python and .NET MAUI |
+| ![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=white) | Mobile UI/UX prototyping, deployment with .NET MAUI |
 | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Server configuration, CLI workflows, bash scripting, Docker containers |
 
 ---
 
 ### 🧰 Full Stack + Cross-Platform Vision
 
-I'm actively building solutions that **run seamlessly across Windows, macOS, and Linux**. From desktop applications using **.NET MAUI** to Python-based tools for cloud workflows, my aim is to ensure optimal performance and usability—regardless of operating system.
+I'm actively building solutions that **run seamlessly across Windows and macOS**. From desktop applications using **.NET MAUI** to Python-based tools for cloud workflows, my aim is to ensure optimal performance and usability—regardless of operating system.
 
 ---
 
 ### 📈 Current Focus Areas
 - 🧩 **SmartDocBuilder**: C# project leveraging Aspose libraries to generate smart, modular documents.
-- 🖼 **Glasss**: Cross-platform AI-powered image editor with Python & C# (.NET MAUI) integration.
-- 🎮 **Anit: The Shear Hero**: 2D adventure game with side-scrolling mechanics built in Unity using C#.
+- 🖼 **Glass**: Cross-platform AI-powered image editor with Python & C# (.NET MAUI) integration.
 - 🌐 Building strong foundations in **network protocols**, **cloud solutions**, and **software deployment pipelines**.
 
 ---
