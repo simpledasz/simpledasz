@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm currently transitioning from a career in Sales to full
 | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | Configuration, troubleshooting, system integration, .NET development |
 | ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white) | Development & testing in cross-platform environments, seamless integration with Python and .NET MAUI |
 | ![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=white) | Mobile UI/UX prototyping, deployment with .NET MAUI |
-| ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Server configuration, CLI workflows, bash scripting, Docker containers |
+| ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Server configuration, CLI workflows, bash scripting |
 
 ---
 
