@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm currently transitioning from a career in Sales to full
 ---
 
 ### 💡 About Me
-- 🎓 Student of Computer Science | Background in IT & Sales Infrastructure
+- 🎓 Student of E-Commerce | Background in IT & Sales Infrastructure
 - 👨‍💻 Learning full-stack development with a focus on **C# (.NET, MAUI)** and **Python**
 - 🎮 Designing a 2D action-adventure game 
 - ☁️ Exploring cloud-based architecture for remote applications and data sharing
