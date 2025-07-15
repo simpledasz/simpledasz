@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm currently transitioning from a career in Sales to full
 
 ### 💡 About Me
 - 🎓 Student of E-Commerce | Background in IT & Sales Infrastructure
-- 👨‍💻 Learning full-stack development with a focus on **C# (.NET, MAUI)** and **Python**
+- 👨‍💻 Learning full-stack development with a focus on **C#** and **Python**
 - ☁️ Exploring cloud-based architecture for remote applications and data sharing
 - 🧠 Fascinated by AI, automation, and cross-platform software design
 
@@ -46,7 +46,7 @@ Welcome to my GitHub! I'm currently transitioning from a career in Sales to full
 
 ### 🧰 Full Stack + Cross-Platform Vision
 
-I'm actively building solutions that **run seamlessly across Windows and macOS**. From desktop applications using **.NET MAUI** to Python-based tools for cloud workflows, my aim is to ensure optimal performance and usability—regardless of operating system.
+I'm actively working on solutions that **run seamlessly across Windows and macOS**. From desktop applications using **.NET MAUI** to Python-based tools for cloud workflows, my aim is to ensure optimal performance and usability—regardless of operating system.
 
 ---
 
