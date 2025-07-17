@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm currently transitioning from a career in Sales to full
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Tools & Framewrks**  
+**Tools & Frameworks**  
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![MAUI](https://img.shields.io/badge/-MAUI-512BD4?style=flat&logo=dotnet)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
@@ -39,21 +39,20 @@ Welcome to my GitHub! I'm currently transitioning from a career in Sales to full
 |----------|-----------|
 | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | Configuration, troubleshooting, system integration, .NET development |
 | ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white) | Development & testing in cross-platform environments, seamless integration with Python and .NET MAUI |
-| ![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=white) | Mobile UI/UX prototyping, deployment with .NET MAUI |
+| ![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=white) | Mobile UI/UX prototyping
 | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Server configuration, CLI workflows, bash scripting |
 
 ---
 
 ### 🧰 Full Stack + Cross-Platform Vision
 
-I'm actively working on solutions that **run seamlessly across Windows and macOS**. From desktop applications using **.NET MAUI** to Python-based tools for cloud workflows, my aim is to ensure optimal performance and usability—regardless of operating system.
+I'm actively experimenting on solutions that **run seamlessly across Windows and macOS**. From desktop applications using **.NET MAUI** to Python-based tools for AI integration.
 
 ---
 
 ### 📈 Current Focus Areas
 - 🧩 **SmartDocBuilder**: C# project leveraging Aspose libraries to generate smart, modular documents.
 - 🖼 **Glass**: Cross-platform AI-powered image editor with Python & C# (.NET MAUI) integration.
-- 🌐 Building strong foundations in **network protocols**, **cloud solutions**, and **software deployment pipelines**.
 
 ---
 
