@@ -43,8 +43,13 @@ Welcome to my GitHub! I'm currently transitioning from a career in Sales to full
 | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Server configuration, CLI workflows, bash scripting |
 
 ---
+
+### 📱 GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=simpledasz&show_icons=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simpledasz&theme=radical&layout=compact" />
+
+---
+
 ### 🧰 Full Stack + Cross-Platform Vision
 
 I'm actively experimenting on solutions that **run seamlessly across Windows and macOS**. From desktop applications using **.NET MAUI** to Python-based tools for AI integration.
