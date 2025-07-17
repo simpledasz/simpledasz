@@ -1,5 +1,5 @@
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/simpledasz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dawid-szender)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Profile-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://huggingface.co/sentencera)
 
 # 👋 Hi, I'm David!
