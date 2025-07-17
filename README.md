@@ -39,11 +39,12 @@ Welcome to my GitHub! I'm currently transitioning from a career in Sales to full
 |----------|-----------|
 | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | Configuration, troubleshooting, system integration, .NET development |
 | ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white) | Development & testing in cross-platform environments, seamless integration with Python and .NET MAUI |
-| ![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=white) | Mobile UI/UX prototyping
+| ![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=white) | Mobile UI/UX prototyping |
 | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Server configuration, CLI workflows, bash scripting |
 
 ---
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=simpledasz&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simpledasz&theme=radical&layout=compact" />
 ### 🧰 Full Stack + Cross-Platform Vision
 
 I'm actively experimenting on solutions that **run seamlessly across Windows and macOS**. From desktop applications using **.NET MAUI** to Python-based tools for AI integration.
