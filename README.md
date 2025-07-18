@@ -63,7 +63,7 @@ I'm actively experimenting on solutions that **run seamlessly across Windows and
 ### 📈 Current Focus Areas
 - 🧩 **SmartDocBuilder**: C# project leveraging Aspose libraries to generate smart, modular documents.
 - 🖼 **Glass**: Cross-platform AI-powered image editor with Python & C# (.NET MAUI) integration.
-- WIP **Project Ara** Smart Assistant
+- WIP **Project Ara**: Smart Assistant
 
 ---
 
