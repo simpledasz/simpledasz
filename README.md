@@ -14,6 +14,7 @@ Welcome to my GitHub! I'm currently transitioning from a career in Sales to full
 - 🎓 Student of E-Commerce | Background in IT & Sales Infrastructure
 - 👨‍💻 Learning full-stack development with a focus on **C#** and **Python**
 - ☁️ Exploring cloud-based architecture for remote applications and data sharing
+- 🚀 Fine-Tuning open source LLM`s   
 - 🧠 Fascinated by AI, automation, and cross-platform software design
 
 ---
@@ -63,7 +64,7 @@ I'm actively experimenting on solutions that **run seamlessly across Windows and
 ### 📈 Current Focus Areas
 - 🧩 **SmartDocBuilder**: C# project leveraging Aspose libraries to generate smart, modular documents.
 - 🖼 **Glass**: Cross-platform AI-powered image editor with Python & C# (.NET MAUI) integration.
-- WIP **Project Ara**: Smart Assistant
+- WIP **Project Ara**: Private Smart Assistant using fine-tuned llm.
 
 ---
 
