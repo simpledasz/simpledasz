@@ -6,7 +6,7 @@
 
 ## 🚀 Aspiring Software Developer | 💼 IT Specialist
 
-Welcome to my GitHub! I'm currently transitioning from a career in Sales to full-time software development, combining my passion for technology, programming, and interactive design. I specialize in Python and C#, and I'm actively building projects that demonstrate strong software engineering principles, clean UI/UX, and AI integration.
+Welcome to my GitHub! I'm currently transitioning from a career in Sales to full-time engineering, combining my passion for technology, programming, and interactive design. I specialize in Python and C#, and I'm actively building projects that demonstrate strong software engineering principles, clean UI/UX, and AI integration.
  
 ---
 
